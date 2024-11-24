@@ -31,3 +31,9 @@
 2024-11-24 19:11:41,971 - [33mPress CTRL+C to quit[0m
 2024-11-24 19:11:45,484 - Button was clicked!
 2024-11-24 19:11:49,710 - Button was clicked!
+2024-11-24 19:15:45,540 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.219.115:5000
+2024-11-24 19:15:45,540 - [33mPress CTRL+C to quit[0m
+2024-11-24 19:15:49,759 - Button was clicked!
