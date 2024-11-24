@@ -1,0 +1,7 @@
+2024-11-24 18:59:44,468 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.219.115:5000
+2024-11-24 18:59:44,468 - [33mPress CTRL+C to quit[0m
+2024-11-24 18:59:57,752 - 127.0.0.1 - - [24/Nov/2024 18:59:57] "GET / HTTP/1.1" 200 -
+2024-11-24 18:59:59,223 - Button was clicked!
