@@ -68,3 +68,10 @@
 2024-11-24 19:21:28,206 - Button was clicked!
 2024-11-24 19:21:43,694 - 127.0.0.1 - - [24/Nov/2024 19:21:43] "GET / HTTP/1.1" 200 -
 2024-11-24 19:21:46,409 - Button was clicked!
+2024-11-24 19:23:33,243 - 127.0.0.1 - - [24/Nov/2024 19:23:33] "GET /button HTTP/1.1" 200 -
+2024-11-24 19:23:44,599 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.219.115:5000
+2024-11-24 19:23:44,599 - [33mPress CTRL+C to quit[0m
+2024-11-24 19:23:49,099 - Button was clicked!
