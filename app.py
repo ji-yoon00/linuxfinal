@@ -21,7 +21,7 @@ def home():
 def commit_button_click():
     subprocess.run(["git", "add", "."])
     subprocess.run(["git", "commit", "-m", "Button clicked"])
-    subprocess.run(["git", "push", "origin", "main"])
+    subprocess.run(["git", "push", "origin", "branch1"])
 
 
 # 버튼 클릭 후 이동할 페이지
