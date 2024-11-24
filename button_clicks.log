@@ -37,3 +37,5 @@
  * Running on http://192.168.219.115:5000
 2024-11-24 19:15:45,540 - [33mPress CTRL+C to quit[0m
 2024-11-24 19:15:49,759 - Button was clicked!
+2024-11-24 19:16:49,802 - 127.0.0.1 - - [24/Nov/2024 19:16:49] "GET /button HTTP/1.1" 200 -
+2024-11-24 19:17:23,692 - Button was clicked!
