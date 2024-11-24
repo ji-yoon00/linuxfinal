@@ -116,3 +116,12 @@
 2024-11-24 20:07:41,912 - 127.0.0.1 - - [24/Nov/2024 20:07:41] "GET / HTTP/1.1" 200 -
 2024-11-24 20:07:41,950 - 127.0.0.1 - - [24/Nov/2024 20:07:41] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
 2024-11-24 20:07:44,858 - Button was clicked!
+2024-11-24 20:08:01,370 - 127.0.0.1 - - [24/Nov/2024 20:08:01] "GET /button HTTP/1.1" 200 -
+2024-11-24 20:08:49,547 - 127.0.0.1 - - [24/Nov/2024 20:08:49] "[31m[1mPOST /button HTTP/1.1[0m" 405 -
+2024-11-24 20:15:18,877 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.219.115:5000
+2024-11-24 20:15:18,877 - [33mPress CTRL+C to quit[0m
+2024-11-24 20:15:21,246 - 127.0.0.1 - - [24/Nov/2024 20:15:21] "GET / HTTP/1.1" 200 -
+2024-11-24 20:15:23,127 - Button was clicked!
